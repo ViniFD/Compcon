@@ -32,10 +32,10 @@ Dessa forma, não há tanta demanda para produzir resoluções de questões, bem
 ### Qual a tendência para o futuro?
 
 Em 2020, com a mudança repentina causada pelo *lockdown*, uma demanda crescente de profissionais de TI foi exigida para suprir as necessidades das empresas que tiveram de migrar para o digital. No dias atuais, esse fenômeno gerou um excedente de profissionais e uma grande dificuldade de ingresso em posições juniores. Veja a seguir uma pesquisa mostrando o crescimento da graduação em **Sistemas de Informação**:
-![alt text](image-3.png)
+![alt text](2.png)
 Fonte: [Censo Educação Superior 2020 - INEP](https://download.inep.gov.br/educacao_superior/censo_superior/documentos/2020/tabelas_de_divulgacao_censo_da_educacao_superior_2020.pdf)
 
-![alt text](image-2.png)
+![alt text](1.png)
 Fonte: [Censo Educação Superior 2023 - INEP](https://download.inep.gov.br/educacao_superior/censo_superior/documentos/2023/apresentacao_censo_da_educacao_superior_2023.pdf)
 
 Perceba que houve um salto de 5 posições (10º para 5º) entre os anos de 2018 até 2023. Tal fato ressalta um forte indicativo de crescimento de interesse na área.
